@@ -1,0 +1,16 @@
+# Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS
+.DS_Store
