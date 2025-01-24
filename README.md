@@ -1,4 +1,5 @@
-# ParaBank Automated Testing Project
+# BDD-specification-automation
+
 
 ## Overview
 Automated testing project for ParaBank web application using Selenium WebDriver, Cucumber, and Java, focusing on account management functionalities.
